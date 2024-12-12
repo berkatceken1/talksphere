@@ -1,6 +1,4 @@
-# TalkSphere - Real-Time Chat Application
-
-TalkSphere, modern web teknolojileri kullanılarak geliştirilmiş bir real-time chat uygulamasıdır.
+# TalkSphere
 
 ## 🚀 Başlangıç
 
